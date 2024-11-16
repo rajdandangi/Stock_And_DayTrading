@@ -6,11 +6,13 @@ BTC PROFTIBLE TRADES :
 
 2.The entry point for Reliance Digital was identified at ₹2,456.80 using the Nematron method, which combines sentiment analysis and probability indicators suggesting a downward trend. Implementing a micro-trend strategy alongside liquidity pool arbitrage and event-driven scalping techniques, we executed a short position. The trade capitalized on temporary price inefficiencies and market reactions to a recent earnings report, aiming for a quick profit within a 15-minute timeframe.:
 
-![image alt](https://www.notion.so/Dandangi-Raj-vadapalli-Trading-journal-1350e870ef2a80d489ffd44d1a61794e?pvs=4#1370e870ef2a8060a6ebfcd61a585ef0)
+![image alt](https://github.com/rajdandangi/Stock_And_DayTrading/blob/66f23cb368a685377c1eb1a3fb9c2a560adf725f/RELIANCE_2024-11-16_12-12-11.png)
 
-3.- Green line (Take Profit): ₹1,838.00
+3.INFY
+- Green line (Take Profit): ₹1,838.00
 - Yellow line (Entry): ₹1,829.95
 - White line (Current Price): ₹1,833.50
+![INFY_2024-11-09_14-25-28](https://github.com/user-attachments/assets/3a459dac-db08-4869-9dbd-0691aad44feb)
 
 
 NON Proftible Trades ❌
